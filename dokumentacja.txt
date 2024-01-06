@@ -1,0 +1,12 @@
+Wzór JSON'a
+{
+    title: tytuł string, k
+    director: string, k
+    cast: [lista string],
+    music: string, k
+    data wydania: string,
+    duration: int,
+    country: str, k
+    description: str, k
+    description_html: str (opis z zachowanym html jakby był potrzebny do pagerank) k
+}
